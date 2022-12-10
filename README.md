@@ -9,14 +9,14 @@ Please note that the data may have missing values as some stores might not repor
 
 
 
-Data Dictionary
+**Data Dictionary**
 
 We have train (8523) and test (5681) data set, train data set has both input and output variable(s). You need to predict the sales for test data set.
 
 
 
 Train file: CSV containing the item outlet information with sales value
-| Variable      | Description     
+| **Variable**     | **Description**  |  
 | ------------- |:-------------:|
 | Item_Identifier| 	Unique product ID |
 | Item_Weight      | 		Weight of product|  
