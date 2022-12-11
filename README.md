@@ -35,4 +35,4 @@ Train file: CSV containing the item outlet information with sales value
 | Outlet_Location_Type      |   The type of city in which the store is located    |  
 | Outlet_Type|Whether the outlet is just a grocery store or some sort of supermarket      |
 
-Resource- https://datahack.analyticsvidhya.com/contest/big-mart-sales-prediction/#ProblemStatement
+
