@@ -1,5 +1,10 @@
 # Big-Mart-Sales-Prediction
 
+From the challenge hosted at- https://datahack.analyticsvidhya.com/contest/big-mart-sales-prediction/#ProblemStatement
+
+**Problem Statement**
+-----
+
 Sales Prediction for Big Mart Outlets
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
 
@@ -10,6 +15,7 @@ Please note that the data may have missing values as some stores might not repor
 
 
 **Data Dictionary**
+-----------------------
 
 We have train (8523) and test (5681) data set, train data set has both input and output variable(s). You need to predict the sales for test data set.
 
